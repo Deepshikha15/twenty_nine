@@ -1,0 +1,117 @@
+.one{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+    text-align:center;
+}
+.fs{
+     height: 600px;
+    /*width: 100%;*/
+    background-color: white;
+    text-align:center;
+}
+
+
+.head{
+    height: 20px;
+    width: 100%;
+    background-color: cadetblue;
+    text-align:center;
+}
+.input{
+     margin-top: 10px;
+   height: 100px;
+    width: 100%;
+    background-color: azure;
+    align-content: center;
+}
+.contain{
+    margin-top: 20px;
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    align-content: center;
+    
+}
+.display{
+    height: 50px;
+    width:100%;
+    background-color: cadetblue;
+   
+}
+
+/*.order{
+    float:left;
+     margin-top: 20px;
+    height: 50px;
+    width:100%;
+    background-color:aquamarine;
+    
+}*/
+
+/*.checkbox{
+    margin-top: 20px;
+    float:right;
+    height: 20px;
+    width:20%;
+    background-color: cadetblue;
+    display:inline-block;
+    
+}*/
+
+
+#add{
+    background-color: cadetblue;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+   margin-left: 100px;
+}
+#txt{
+     text-align: center;
+     font-size: 20px;
+   margin-left: 200px;
+    
+    
+}
+#st_1{
+    float:left;
+    display: inline;
+}
+#st_2{
+    float:right;
+    display: inline;
+}
+.new_list{
+    float:left;
+     margin-top: 20px;
+    height: 50px;
+    width:100%;
+    background-color:#ec7063;
+}
+.n_chk{
+    float:right;
+    height: 20px;
+    width:20%;
+    background-color: cadetblue;
+}
+.checked {
+    background-color:  #dc7633 ;
+}
+#in{
+    text-align: center;
+     font-size: 20px;
+   margin-left: 200px;
+}
+.bt{
+     background-color: cadetblue;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+}
